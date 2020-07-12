@@ -1,0 +1,17 @@
+.container{
+    display: grid;
+    justify-items: stretch;
+    align-items: stretch;
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    margin-top: 2.5%;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
+}
+
+@media screen and (max-width: 700px){
+    .container{
+        min-height: 520px;
+    }
+}
