@@ -18,7 +18,7 @@ function App() {
             <Route exact path="/">
               <SectionContainer>
               <Section color = {'#d3d3d369'} right title = {'About'} rowStart = {1} rowEnd = {5} columnStart = {1} columnEnd = {5}>
-              {"Howdy! I'm a begginer in software development, craving for increasing his current skill. My daily routine consist mainly of coding, looking at funny memes on the internet and, of course, eating. I made this page to share a few projects i made, so if you like any of these and you are willing to hire me, I would be very pleased and I look forward to any feedback <3"} 
+              {"Hello! I'm a begginer in software development, craving for increasing his current skill. My daily routine consist mainly of coding, looking at funny memes on the internet and, of course, eating. I made this page to share a few projects i made, so if you like any of these and you are willing to hire me, I would be very pleased and I look forward to any feedback <3"} 
               </Section>
               <Section color = {'#acc0b669'} left title = {'Technologies'} rowStart = {6} rowEnd = {9} columnStart = {3} columnEnd = {6}>
                 My favourite language is Javascript, I focus on learning Nodejs and React, but I'm also coding in more object-oriented languages such as Java (Spring boot). I am also interested in learning Python in the future. 
